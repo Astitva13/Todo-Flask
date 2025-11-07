@@ -76,4 +76,4 @@ Push to your fork and open a Pull Request
 Astitva Mishra
 GitHub: https://github.com/Astitva13
 
-LinkedIn: https://www.linkedin.com/in/astitva13
+LinkedIn: https://www.linkedin.com/in/astitva28
