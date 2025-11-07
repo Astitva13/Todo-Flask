@@ -1,0 +1,17 @@
+body {
+    background: #eef2ff; 
+}
+
+.card {
+    border-radius: 20px !important;
+    border: none;
+}
+
+table {
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.btn {
+    border-radius: 8px !important;
+}
